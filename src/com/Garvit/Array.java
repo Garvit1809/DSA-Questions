@@ -16,6 +16,5 @@ public class Array {
         }
 
         System.out.println(Arrays.toString(arr));
-        String token = "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";
     }
 }
